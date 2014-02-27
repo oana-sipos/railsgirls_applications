@@ -12,12 +12,12 @@ group :assets do
   gem 'uglifier', '>= 1.3.0'
   gem 'coffee-rails', '~> 4.0.0'
   gem 'bootstrap-sass'
-  gem 'haml-rails'
 end
 
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.0.1'
 gem 'simple_form'
+gem 'haml-rails'
 
 group :doc do
   gem 'sdoc', require: false
