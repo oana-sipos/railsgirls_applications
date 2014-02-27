@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  superadmin: MyString
+  admin: MyString
+  coach: MyString
+  organizer: MyString
+  participant: MyString
+
+two:
+  superadmin: MyString
+  admin: MyString
+  coach: MyString
+  organizer: MyString
+  participant: MyString
